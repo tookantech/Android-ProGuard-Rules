@@ -1,4 +1,4 @@
-# Library name: Square Picasso specific rules
+# Library: Picasso
 # url: https://square.github.io/picasso/
 
 -dontwarn com.squareup.okhttp.**
